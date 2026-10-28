@@ -4,7 +4,10 @@
 
 [![Android](https://img.shields.io/badge/Platform-Android%20%7C%20PWA-green.svg)](#-native-android-apk)
 [![Stack](https://img.shields.io/badge/Stack-React%2019%20%7C%20TypeScript%20%7C%20Vite%20%7C%20Capacitor-blue.svg)](#%EF%B8%8F-tech-stack)
+[![Documentation](https://img.shields.io/badge/Docs-Architecture%20%26%20Guide-orange.svg)](HOW_IT_WORKS.md)
 [![Design](https://img.shields.io/badge/Design-Swiss%20Modernist%20%7C%208--pt%20Grid-red.svg)](#-design-principles)
+
+> 📖 **Deep Dive Documentation**: For an in-depth explanation of the algorithms, double-progression math, drift-proof timers, and data architecture, read [**`HOW_IT_WORKS.md`**](HOW_IT_WORKS.md).
 
 ---
 
